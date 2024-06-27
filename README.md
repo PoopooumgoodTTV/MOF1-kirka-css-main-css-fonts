@@ -12,7 +12,7 @@
 /* Fonts */
 @font-face {
     font-family: gamefont;
-    src: url(");
+    src: url("https://raw.githubusercontent.com/PoopooumgoodTTV/link/main/README.md");
 }
 
 ::-webkit-scrollbar-thumb {
